@@ -157,6 +157,7 @@ Connections are created per request to ensure **thread safety** under FastAPI's 
 | All identical values | Returns full matrix area |
 
 ---
+> [!NOTE]
 > **Tie-breaking:** If multiple values form rectangles of equal maximum area, the solution returns the first value encountered during iteration. This is consistent with the problem statement which asks for *the* largest rectangle.
 
 ## Constraints
